@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap");
+
+.Text {
+  font-family: "Bungee Spice", sans-serif;
+  text-align: center;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
